@@ -46,4 +46,5 @@ Cromática (Varía en dificultad de obtención): Son brawlers especiales con apa
 
 Ejemplos: Gale, Surge, Colette, Lou.
 Cada rareza tiene sus propias características y habilidades especiales. Los brawlers cromáticos suelen ser parte de eventos o temporadas específicas, y su obtención puede variar en función de las actualizaciones del juego. ¡La diversidad en las rarezas añade emoción y desafío a la búsqueda de nuevos brawlers en Brawl Stars!
+
 ![brawlers](https://pbs.twimg.com/media/EVoSpPrU8AAXoKH.jpg){widht=300 height=300}
